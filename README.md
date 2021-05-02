@@ -8,6 +8,6 @@ A template project for React, using webpack to bundle it together. Include SCSS 
 5. Run `npm build` to construct JS and CSS.
 6. Run `npm start` to host site locally for testing.
 ## **Details**
-- JavaScript exports from src/index.js.
-- SCSS exports from scss/styles.scss.
+- JavaScript builds from src/index.js.
+- SCSS builds from scss/styles.scss.
 - Everything runs from the dist folder.
